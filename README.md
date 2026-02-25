@@ -26,4 +26,13 @@ It also prevents division by zero.
 - Handling division by zero
 - Basic Git and GitHub usage
 
+## Why Variables Are Important in Programming
+
+Variables allow programs to:
+
+- Store information  
+- Reuse values  
+- Perform calculations  
+- Make decisions  
+
 Author: Griffins Kyei
