@@ -13,11 +13,15 @@ It also prevents division by zero.
 
 ## How to Run
 
-1. Make sure Python is installed.
-2. Open terminal in this folder.
-3. Run:
-
-   python calculator.py
+1. Make sure Python and Visual Studio Code is installed.
+2. Get the project files.
+  -Click code then Download zip.
+  -Extract it anywhere in the computer.
+  -The folder will be called week-1-calculator
+3. Open terminal in the project folder
+  -Vs code: File - open folder - Select week-1-calculator - Terminal - New Terminal
+  -Type py calculator.py.
+  -Press enter.
 
 ## What I Learned
 
