@@ -11,7 +11,7 @@ The program allows the user to:
 
 It also prevents division by zero.
 
-## How to Run
+## :arrow_forward: How to Run
 
 1. Make sure Python and Visual Studio Code is installed.
 2. Get the project files.
@@ -39,4 +39,5 @@ Variables allow programs to:
 - Perform calculations  
 - Make decisions  
 
-Author: Griffins Kyei
+:bust_in_silhouette: Author 
+Griffins Kyei
