@@ -40,4 +40,4 @@ Variables allow programs to:
 - Make decisions  
 
 :bust_in_silhouette: Author 
-Griffins Kyei
+ - Griffins Kyei
