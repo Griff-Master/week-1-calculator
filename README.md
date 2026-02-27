@@ -39,5 +39,5 @@ Variables allow programs to:
 - Perform calculations  
 - Make decisions  
 
-:bust_in_silhouette: Author 
- - Griffins Kyei
+:bust_in_silhouette: Author
+Griffins Kyei
